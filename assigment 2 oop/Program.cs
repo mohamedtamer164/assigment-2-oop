@@ -28,6 +28,28 @@
 
 
             #endregion
+
+
+            #region answer 2
+
+            // a) Which class is the parent class?
+            //b) Which class is the child class?
+            //c) What members are inherited by ExpressShipment?
+            // d) Why is inheritance better than duplicating the same code in multiple classes?
+
+            /*
+           a * base class = shipment
+           b * child class = ExpressShipment
+           c * members inherited by ExpressShipment = tracingcode 
+           d * inheritance is better than duplicating the same code in multiple classes because it promotes code reusability, reduces redundancy, and makes the code easier to maintain and update. By using inheritance, we can create a hierarchy of classes that share common functionality, which allows us to write cleaner and more efficient code.
+
+
+
+
+            */
+
+
+            #endregion
         }
     }
 }
